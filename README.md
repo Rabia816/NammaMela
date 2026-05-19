@@ -127,6 +127,23 @@ https://appetize.io/app/b_e7ydux2je56x27on25mbdzq4rm
 - JDK 17
 - Firebase project
 
+## 📸 App Snapshots
+
+<img width="600" height="400" alt="WhatsApp Image 2026-05-18 at 20 59 27" src="https://github.com/user-attachments/assets/f3f95bca-ca51-4df2-a15a-d6f183b94e61" />
+
+##
+
+<img width="600" height="400" alt="WhatsApp Image 2026-05-18 at 12 15 45" src="https://github.com/user-attachments/assets/aa34f9de-5aa3-4a9a-9b08-97e92a876ca5" />
+
+##
+
+<img width="600" height="400" alt="WhatsApp Image 2026-05-18 at 12 18 25" src="https://github.com/user-attachments/assets/637fb3e9-7942-41dd-8877-5726a7daf1ca" />
+
+
+
 ### Clone Repository
 ```bash
-git clone https://github.com/Rabia816/NammaMela.git 
+git clone https://github.com/Rabia816/NammaMela.git
+
+  
+
